@@ -1,4 +1,3 @@
-316559624
-Alona Laskar 316559624
-HTTP Proxy EX2
+
+HTTP Proxy
 proxy1.c: parse url and request http from server. saves the request to disk for next time.
